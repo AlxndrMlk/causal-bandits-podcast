@@ -60,4 +60,3 @@ filled = templ.safe_substitute(
 
 st.subheader('YouTube Description')
 st.write(filled.replace('\n', '<br>').replace('*', '\*'), unsafe_allow_html=True)
-
