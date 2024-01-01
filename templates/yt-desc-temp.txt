@@ -9,7 +9,6 @@ Audio version available on the best podcast platforms: https://causalbanditspodc
 ------------------------------------------------------------------------------------------------------
 
 *About The Guest*
-
 {GUEST_INFO}
 
 Connect with Alicia:
