@@ -1,4 +1,4 @@
-Recorded on {MONTH} {DAY}, {YEAR} in {CITY}, {COUNTRY}.
+Recorded on {REC_MONTH} {REC_DAY}, {REC_YEAR} in {REC_CITY}, {REC_COUNTRY}.
 
 Audio version available on the best podcast platforms: https://causalbanditspodcast.buzzsprout.com
 
@@ -30,7 +30,7 @@ Connect with Alex:
 
 Links
 
-{LINKS}
+{EPSODE_LINKS}
 
 *Causal Bandits Team*
 
