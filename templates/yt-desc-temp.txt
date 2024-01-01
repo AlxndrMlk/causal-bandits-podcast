@@ -23,7 +23,7 @@ Aleksander (Alex) Molak is an independent machine learning researcher, educator,
 Connect with Alex:
 - Alex on the Internet: https://bit.ly/aleksander-molak
 
-Links
+*Links*
 $EPISODE_LINKS
 
 *Causal Bandits Team*
