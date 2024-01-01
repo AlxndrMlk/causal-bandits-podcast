@@ -1,0 +1,49 @@
+Recorded on {MONTH} {DAY}, {YEAR} in {CITY}, {COUNTRY}.
+
+Audio version available on the best podcast platforms: https://causalbanditspodcast.buzzsprout.com
+
+*{EPISODE_HEADLINE}*
+
+{EPISODE_DESCRIPTION}
+
+------------------------------------------------------------------------------------------------------
+
+*About The Guest*
+
+{GUEST_INFO}
+
+Connect with Alicia:
+
+- {GUEST_NAME} on Twitter/X: {GUEST_TWITTER}
+
+- {GUEST_NAME} on LinkedIn: {GUEST_LINKEDIN}
+
+- {GUEST_NAME}'s web page: {GUEST_WEB}
+
+*About The Host*
+
+Aleksander (Alex) Molak is an independent machine learning researcher, educator, entrepreneur and a best-selling author in the area of causality (https://amzn.to/3QhsRz4).
+
+Connect with Alex:
+
+- Alex on the Internet: https://bit.ly/aleksander-molak
+
+Links
+
+{LINKS}
+
+*Causal Bandits Team*
+
+Project Coordinator: Taiba Malik (https://www.instagram.com/taibasplay/)
+
+Video and Audio Editing: Navneet Sharma, Aleksander Molak
+
+*Action*
+
+Connect on LinkedIn: https://www.linkedin.com/in/aleksandermolak/
+
+Join Causal Python Weekly: https://causalpython.io
+
+Causal Bandits: https://causalbanditspodcast.com
+
+The Causal Book: https://amzn.to/3QhsRz4
