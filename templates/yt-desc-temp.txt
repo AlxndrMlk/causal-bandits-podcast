@@ -24,7 +24,7 @@ Connect with Alex:
 - Alex on the Internet: https://bit.ly/aleksander-molak
 
 Links
-$EPSODE_LINKS
+$EPISODE_LINKS
 
 *Causal Bandits Team*
 Project Coordinator: Taiba Malik (https://www.instagram.com/taibasplay/)
