@@ -12,7 +12,7 @@ $EPISODE_DESCRIPTION
 
 $GUEST_INFO
 
-Connect with Alicia:
+Connect with $GUEST_FIRST_NAME:
 - $GUEST_NAME on Twitter/X: $GUEST_TWITTER
 - $GUEST_NAME on LinkedIn: $GUEST_LINKEDIN
 - $GUEST_NAME's web page: $GUEST_WEB
@@ -35,3 +35,5 @@ Connect on LinkedIn: https://www.linkedin.com/in/aleksandermolak/
 Join Causal Python Weekly: https://causalpython.io
 Causal Bandits: https://causalbanditspodcast.com
 The Causal Book: https://amzn.to/3QhsRz4
+
+#machinelearning #causalai #causalinference #causality 

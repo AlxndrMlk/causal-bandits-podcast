@@ -42,6 +42,9 @@ guest_www = st.text_input('Guest WWW')
 # Episode links
 episode_links = st.text_area('Episode links')
 
+# Add values
+guest_first_name = guest.name.split(' ')[0]
+
 # Fill the template 
 filled = templ.safe_substitute(
     REC_MONTH=rec_month,
@@ -53,6 +56,7 @@ filled = templ.safe_substitute(
     EPISODE_DESCRIPTION=episode_descr,
     GUEST_INFO=guest_info,
     GUEST_NAME=guest_name,
+    GUEST_FIRST_NAME=guest_first_name,
     GUEST_TWITTER=guest_twitter,
     GUEST_LINKEDIN=guest_linkedin,
     GUEST_WEB=guest_www,
