@@ -43,7 +43,7 @@ guest_www = st.text_input('Guest WWW')
 episode_links = st.text_area('Episode links')
 
 # Add values
-guest_first_name = guest.name.split(' ')[0]
+guest_first_name = guest_name.split(' ')[0]
 
 # Fill the template 
 filled = templ.safe_substitute(
