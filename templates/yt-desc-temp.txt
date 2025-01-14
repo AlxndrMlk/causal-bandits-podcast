@@ -13,7 +13,6 @@ Recorded on $REC_MONTH $REC_DAY, $REC_YEAR in $REC_CITY, $REC_COUNTRY.
 $GUEST_INFO
 
 Connect with $GUEST_FIRST_NAME:
-- $GUEST_NAME on Twitter/X: $GUEST_TWITTER
 - $GUEST_NAME on LinkedIn: $GUEST_LINKEDIN
 - $GUEST_NAME's web page: $GUEST_WEB
 
@@ -46,6 +45,6 @@ https://www.youtube.com/playlist?list=PLhKKv6iMja4p5FbJIgzTOE67E1M6c8lnB
 
 *Causal Bandits Team*
 Project Coordinator: Taiba Malik (https://www.instagram.com/taibasplay/)
-Video and Audio Editing: Navneet Sharma, Aleksander Molak
+Video and Audio Editing: Navneet Sharma
 
 #machinelearning #causalai #causalinference #causality 
