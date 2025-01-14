@@ -1,15 +1,14 @@
-Recorded on $REC_MONTH $REC_DAY, $REC_YEAR in $REC_CITY, $REC_COUNTRY.
-
-Audio version available on the best podcast platforms: https://causalbanditspodcast.buzzsprout.com
-
 *$EPISODE_HEADLINE*
 
 $EPISODE_DESCRIPTION
 
+
+Audio version available on the best podcast platforms: https://causalbanditspodcast.buzzsprout.com
+Recorded on $REC_MONTH $REC_DAY, $REC_YEAR in $REC_CITY, $REC_COUNTRY.
+
 ------------------------------------------------------------------------------------------------------
 
 *About The Guest*
-
 $GUEST_INFO
 
 Connect with $GUEST_FIRST_NAME:
@@ -18,7 +17,7 @@ Connect with $GUEST_FIRST_NAME:
 - $GUEST_NAME's web page: $GUEST_WEB
 
 *About The Host*
-Aleksander (Alex) Molak is an independent machine learning researcher, educator, entrepreneur and a best-selling author in the area of causality (https://amzn.to/3QhsRz4).
+Aleksander (Alex) Molak is an independent machine learning researcher, educator, entrepreneur and a best-selling author in the area of causality (https://amzn.to/3QhsRz4 ).
 
 Connect with Alex:
 - Alex on the Internet: https://bit.ly/aleksander-molak
@@ -26,14 +25,33 @@ Connect with Alex:
 *Links*
 $EPISODE_LINKS
 
+
+*Perks & resources*
+🚀 Join FREE Causal Python Weekly Newsletter: https://causalpython.io
+📕 My Book on Causality: https://amzn.to/3SKRXIw
+
+🔥 Causal Bandits Community Beta Wait List: https://causalbandits.com/
+📽️ FREE Online Course on Causality Wait List: https://causalsecrets.com/
+
+🎙️ Get notifications about new episodes: https://causalbanditspodcast.com
+
+
+*Let's connect!*
+👉🏼 Linkedin: https://www.linkedin.com/in/aleksandermolak/
+👉🏼 Bluesky: https://alxndrmlk.bsky.social
+👉🏼 Tiktok: https://www.tiktok.com/@alex.molak
+
+
+*Business*
+👉🏼 Consulting and Trainings: hello@causalpython.io
+
+
+*Podcast Playlist*
+https://www.youtube.com/playlist?list=PLhKKv6iMja4p5FbJIgzTOE67E1M6c8lnB
+
+
 *Causal Bandits Team*
 Project Coordinator: Taiba Malik (https://www.instagram.com/taibasplay/)
 Video and Audio Editing: Navneet Sharma, Aleksander Molak
-
-*Action*
-Connect on LinkedIn: https://www.linkedin.com/in/aleksandermolak/
-Join Causal Python Weekly: https://causalpython.io
-Causal Bandits: https://causalbanditspodcast.com
-The Causal Book: https://amzn.to/3QhsRz4
 
 #machinelearning #causalai #causalinference #causality 
