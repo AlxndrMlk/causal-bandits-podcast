@@ -14,6 +14,7 @@ $GUEST_INFO
 
 Connect with $GUEST_FIRST_NAME:
 - $GUEST_NAME on LinkedIn: $GUEST_LINKEDIN
+- $GUEST_NAME on BlueSky: $GUEST_BSKY
 - $GUEST_NAME's web page: $GUEST_WEB
 
 *About The Host*
@@ -27,9 +28,9 @@ $EPISODE_LINKS
 
 *Perks & resources*
 🚀 Join FREE Causal Python Weekly Newsletter: https://causalpython.io
+📽️ FREE Online Course on Causality: https://causalsecrets.com/
 📕 My Book on Causality: https://amzn.to/3SKRXIw
 🔥 Causal Bandits Community Beta Wait List: https://causalbandits.com/
-📽️ FREE Online Course on Causality Wait List: https://causalsecrets.com/
 🎙️ Get notifications about new episodes: https://causalbanditspodcast.com
 
 *Let's connect!*
@@ -38,7 +39,7 @@ $EPISODE_LINKS
 👉🏼 Tiktok: https://www.tiktok.com/@alex.molak
 
 *Business*
-👉🏼 Consulting and Trainings: hello@causalpython.io
+👉🏼 Consulting and Causal AI Training For Your Team: hello@causalpython.io
 
 *Podcast Playlist*
 https://www.youtube.com/playlist?list=PLhKKv6iMja4p5FbJIgzTOE67E1M6c8lnB

@@ -35,7 +35,7 @@ guest_name = st.text_input('Guest\'s first name')
 guest_info = st.text_area('Guest info')
 
 # Guest contact
-guest_twitter = st.text_input('Guest Twitter')
+guest_bsky = st.text_input('Guest BlueSky')
 guest_linkedin = st.text_input('Guest LinkedIn')
 guest_www = st.text_input('Guest WWW')
 
@@ -57,7 +57,7 @@ filled = templ.safe_substitute(
     GUEST_INFO=guest_info,
     GUEST_NAME=guest_name,
     GUEST_FIRST_NAME=guest_first_name,
-    GUEST_TWITTER=guest_twitter,
+    GUEST_BSKY=guest_bsky,
     GUEST_LINKEDIN=guest_linkedin,
     GUEST_WEB=guest_www,
     EPISODE_LINKS=episode_links)
